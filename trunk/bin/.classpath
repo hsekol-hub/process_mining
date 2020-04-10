@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="libs/BPMN.jar"/>
+	<classpathentry kind="lib" path="libs/OpenXES.jar"/>
+	<classpathentry kind="lib" path="libs/ProM-Contexts.jar"/>
+	<classpathentry kind="lib" path="libs/ProM-Framework.jar"/>
+	<classpathentry kind="lib" path="libs/ProM-Models.jar"/>
+	<classpathentry kind="lib" path="libs/ProM-Plugins.jar"/>
+	<classpathentry kind="lib" path="libs/Uitopia.jar"/>
+	<classpathentry kind="lib" path="ngram-ProMPlugin-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
